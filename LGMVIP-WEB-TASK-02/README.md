@@ -15,8 +15,7 @@ CSS: is used for styling and design.<br>
 JAVASCRIPT: Used for the interactive features and logic of the app.<br>
 
 
-# Contributing
-Contributions are welcome! If you find any issues or want to add new features, feel free to open a pull request.
+
 
 #Deploy 
-link: https://melodious-custard-1e7344.netlify.app/
+
